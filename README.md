@@ -82,19 +82,6 @@ npm run dev
 
 ---
 
-## 🔑 API Configuration
-
-Create a `.env` file in the project root:
-
-```env
-VITE_OMDB_API_KEY=YOUR_API_KEY
-```
-
-Access the API key inside React:
-
-```javascript
-const API_KEY = import.meta.env.VITE_OMDB_API_KEY;
-```
 
 ---
 
@@ -134,7 +121,7 @@ https://movie-search-app-rust-five.vercel.app/
 
 ## 👨‍💻 Author
 
-Nik
+Dasari Prathyusha
 
 B.Tech AIML Student
 
